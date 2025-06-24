@@ -239,9 +239,9 @@ function App() {
         <div className=" text-white rounded overflow-hidden shadow-md">
           <img src={img1} alt="Proven Track Record" className="w-full rounded-[12px] aspect-square object-cover" />
           <div className="p-6">
-            <h3 className="font-bold text-lg xl:text-[26px] text-center  mb-[2rem]">Proven Track Record</h3>
+            <h3 className="font-bold text-lg xl:text-[26px] text-center  mb-[2rem]">Say Goodbye to Paperwork Headaches</h3>
             <p className="text-center text-[16px] xl:text-[18px]">
-              We have a history of success in helping our clients achieve their goals.
+            Are you tired of printing, signing, scanning, and mailing documents? Reclaim your time and streamline your processes with our secure and intuitive electronic signature solution.
             </p>
           </div>
         </div>
@@ -249,9 +249,9 @@ function App() {
         <div className=" text-white rounded overflow-hidden shadow-md">
           <img src={img2} alt="Forward-Thinking Approach" className="w-full rounded-[12px] aspect-square object-cover" />
           <div className="p-6">
-            <h3 className="font-bold text-lg xl:text-[26px] text-center  mb-[2rem]">Forward-Thinking Approach</h3>
+            <h3 className="font-bold text-lg xl:text-[26px] text-center  mb-[2rem]">Sign Documents Anytime, Anywhere, On Any Device</h3>
             <p className="text-center text-[16px] xl:text-[18px]">
-              We are constantly innovating to stay ahead of the curve.
+            Our platform is designed for flexibility and convenience. Whether you're in the office, at home, or on the go, you can easily send, receive, and sign documents from your computer, tablet, or smartphone.
             </p>
           </div>
         </div>
@@ -259,9 +259,9 @@ function App() {
         <div className=" text-white rounded overflow-hidden shadow-md">
           <img src={img3} alt="Trusted Partnership" className="w-full rounded-[12px] aspect-square object-cover" />
           <div className="p-6">
-            <h3 className="font-bold text-lg xl:text-[26px] text-center  mb-[2rem]">Trusted Partnership</h3>
+            <h3 className="font-bold text-lg xl:text-[26px] text-center  mb-[2rem]">Streamline Your Workflow and Boost Efficiency</h3>
             <p className="text-center text-[16px] xl:text-[18px]">
-              We believe in building strong, long-term relationships with our clients.
+            Integrating electronic signatures into your business processes can significantly improve your workflow and overall efficiency. Eliminate manual steps, reduce errors, and accelerate the time it takes to finalize agreements.
             </p>
           </div>
         </div>
