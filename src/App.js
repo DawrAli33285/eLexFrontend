@@ -218,7 +218,7 @@ function App() {
       <ImageText imgfst = {false} img = {fst} head = "Unlimited Free Signatures" cont = "Experience the freedom of limitless digital signing without ever reaching for your wallet."  />
       <ImageText imgfst = {true} img = {scnd} head = "Invite and Collaborate for Free" cont = "Bring multiple people into the signing process at no extra cost. Close deals, not your wallet."  />
       <ImageText imgfst = {false} img = {third} head = "Certification, Also Free" cont = "Every signed document comes with a detailed completion certificate, featuring access logs, all at zero cost."  />
-      <ImageText imgfst = {true} img = {fourth} head = "OpenSign™, Secure and Free" cont = "Your documents deserve a safe home. Store and organize them for free in our secure OpenSign™ Drive vault."  />
+      <ImageText imgfst = {true} img = {fourth} head = "E-Lex Signature™, Secure and Free" cont = "Your documents deserve a safe home. Store and organize them for free in our secure E-Lex Signature™ Drive vault."  />
      
 
       <div className="text-center px-4 py-16">
